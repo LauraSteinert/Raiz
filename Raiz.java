@@ -1,14 +1,3 @@
-/*******************************************************************/
-/*   ACH2001 - Introdução à Programação                            */
-/*   EACH-USP - Primeiro Semestre de 2020                          */
-/*   Matutino - Prof. Digiampietri                                 */
-/*                                                                 */
-/*   Segundo Exercício-Programa                                    */
-/*                                                                 */
-/*   Laura Steinert de Freitas                   10725244          */
-/*                                                                 */
-/*   Entrega: 06/05                                                */
-/*******************************************************************/
 
 /*
 	Cálculo para raiz quadrada
